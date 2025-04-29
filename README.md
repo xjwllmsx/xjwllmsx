@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9980FF&width=450&lines=Passionate+about+Data+Science;Passionate+about+Open+Source+Projects)](https://git.io/typing-svg)
 
-📬 Contact me:  
-- **Email:** contact@joseph-williams.me  
-- **Portfolio:** [joseph-williams.me](https://joseph-williams.me)  
+📬 Contact me:
+
+- **Email:** contact@joseph-williams.me
+- **Portfolio:** [joseph-williams.me](https://joseph-williams.me)
 - **LinkedIn:** [linkedin.com/in/josephedgarwilliams](https://www.linkedin.com/in/josephedgarwilliams/)
 
 ## About Me
@@ -41,13 +42,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=default" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xjwllmsx&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xjwllmsx&show_icons=true&rank_icon=github&card_width=495px&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjwllmsx&layout=compact&card_width=495&theme=dracula" alt="Top Languages" />
 </p>
