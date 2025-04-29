@@ -1,6 +1,6 @@
-### Hi, I'm Joseph Williams 👋🏿
+# Hi, I'm Joseph 👋🏿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9980FF&width=450&lines=Passionate+about+Data+Science;Passionate+about+Open+Source+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b8d4&width=450&lines=Passionate+about+Data+Science;Passionate+about+Open+Source+Projects)](https://git.io/typing-svg)
 
 📬 Contact me:
 
