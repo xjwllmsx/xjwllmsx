@@ -5,14 +5,14 @@
 ## Connect With Me
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://linkedin.com/in/josephedgarwilliams/"><img width="55px" alt="LinkedIn" title="Let's connect on LinkedIn!" src="https://imgur.com/S75Go5P.png"/></a>
+<p align="left">
+  <a href="https://linkedin.com/in/josephedgarwilliams/"><img width="32px" alt="LinkedIn" title="Let's connect on LinkedIn!" src="https://imgur.com/S75Go5P.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://joseph-williams.me"><img width="74px" title="Check out my website!" alt="My Website" src="https://i.imgur.com/YIECp0F.png"/></a>
+  <a href="https://joseph-williams.me"><img width="47px" title="Check out my website!" alt="My Website" src="https://i.imgur.com/YIECp0F.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mastodon.social/@JosephWilliams"><img width="60px" alt="Mastodon" title="Follow me on Mastodon!" src="https://i.imgur.com/eIU2kQx.png"/></a>
+  <a href="https://mastodon.social/@JosephWilliams"><img width="37px" alt="Mastodon" title="Follow me on Mastodon!" src="https://i.imgur.com/eIU2kQx.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:contact@joseph-williams.me" alt="Email" title="Send me an email!"><img width="55px" src="https://i.imgur.com/J1mH6OS.png"/></a>
+  <a href="mailto:contact@joseph-williams.me" alt="Email" title="Send me an email!"><img width="32px" src="https://i.imgur.com/J1mH6OS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
