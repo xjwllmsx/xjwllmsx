@@ -48,15 +48,14 @@
 </div>
 
 ## GitHub Stats
-
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xjwllmsx&theme=dracula" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-gamma.vercel.app?user=xjwllmsx&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xjwllmsx&show_icons=true&rank_icon=github&card_width=495px&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-pied-78.vercel.app/api?username=xjwllmsx&show_icons=true&rank_icon=github&card_width=495px&theme=dracula&exclude_repo=github-readme-stats,github-readme-streak-stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjwllmsx&layout=compact&card_width=495&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-pied-78.vercel.app/api/top-langs/?username=xjwllmsx&layout=compact&card_width=495&theme=dracula&exclude_repo=github-readme-stats,github-readme-streak-stats,joseph-personal-website" alt="Top Languages" />
 </p>
