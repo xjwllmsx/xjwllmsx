@@ -26,7 +26,7 @@
 
 ## Certifications
 
-- 📜 [Junior Data Analyst - DataQuest (In Progress)](#)
+- 📜 [Junior Data Analyst - DataQuest (In Progress)](https://app.dataquest.io/referral-signup/aze72npc/)
 - 📜 [Google UX Design Professional Certificate - Coursera](https://www.credly.com/badges/fb34073e-d932-4cc4-a71d-e879d1e85854/public_url)
 
 ## Languages and Tools
